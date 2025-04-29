@@ -43,3 +43,5 @@ Though the chatbot doesn't need to be fully advanced or API-integrated, it must 
 Overall, this task serves as an excellent introduction to real-world NLP applications and conversational AI. It encourages hands-on coding, logical implementation, and an understanding of human language from a computational point of view. Upon completion, the intern will gain valuable experience in natural language interfaces, which are increasingly in demand across industries ranging from customer service to education and virtual assistants.
 
 ![Image](https://github.com/user-attachments/assets/f0ccdc80-fc56-4083-89c3-c8f0e1807148)
+
+![Image](https://github.com/user-attachments/assets/dfdc79e3-ad87-4e31-aad3-a8647e8ffa10)
